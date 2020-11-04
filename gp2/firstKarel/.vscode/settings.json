@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/karmanyaahm/code/ap-computer-science-a/gp2/KarelJRobot/*.jar"
+    ],
+    "cSpell.words": [
+        "karel"
+    ]
+}
